@@ -16,6 +16,3 @@ export class OrbitListComponent implements OnInit {
   }
 
 }
-
-let Bob = new Satellite("Bob", "dude","4/20","HIGH", true)
-console.log(Bob.name)
