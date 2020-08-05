@@ -1,0 +1,20 @@
+table {
+    color: white;
+    overflow: hidden;
+    margin: 12px 0;
+    background: #34495E;
+    border-radius: 5px;
+    border-collapse: collapse;
+  }
+  
+  td {
+      text-align: left;
+      margin: 5px 10px;
+      padding: 8px;
+      min-width: 40px;
+  }
+
+  .count {
+      text-align: right;
+  }
+  
