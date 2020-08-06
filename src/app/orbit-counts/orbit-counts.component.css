@@ -18,3 +18,6 @@ table {
       text-align: right;
   }
   
+  .hidden {
+      visibility: collapse;
+  }
